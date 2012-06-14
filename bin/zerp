@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'zerp'
+
+puts 'you got zerped!'
+
+dino = Zerp::Dinosaur.new
